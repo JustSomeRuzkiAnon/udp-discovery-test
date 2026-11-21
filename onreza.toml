@@ -1,0 +1,6 @@
+[project]
+framework = "go"
+
+[deploy]
+runtime = "executable"
+entry = "server"
